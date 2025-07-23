@@ -4,58 +4,58 @@
     "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 18735
+    "duration": 18773
   },
   "tests": [
     {
       "title": "div.card elementi var mı?",
       "status": "passed",
-      "duration": 1195
+      "duration": 1314
     },
     {
       "title": "ülke bayrağı doğru şekilde eklenmiş mi?",
       "status": "passed",
-      "duration": 880
+      "duration": 919
     },
     {
       "title": "div.card-info elementi var mı?",
       "status": "passed",
-      "duration": 898
+      "duration": 889
     },
     {
       "title": "ip adresi doğru şekilde h3 tagi ile eklenmiş mi?",
       "status": "passed",
-      "duration": 915
+      "duration": 922
     },
     {
       "title": "ülke bilgisi doğru şekilde p tagi ile eklenmiş mi?",
       "status": "passed",
-      "duration": 927
+      "duration": 899
     },
     {
       "title": "enlem ve boylam bilgisi metni ve sırası doğru mu?",
       "status": "timedOut",
-      "duration": 10070
+      "duration": 10038
     },
     {
       "title": "şehir bilgisi metni ve sırası doğru mu?",
       "status": "passed",
-      "duration": 1127
+      "duration": 1060
     },
     {
       "title": "saat dilimi bilgisi metni ve sırası doğru mu?",
       "status": "passed",
-      "duration": 929
+      "duration": 872
     },
     {
       "title": "para birimi bilgisi metni ve sırası doğru mu?",
       "status": "passed",
-      "duration": 896
+      "duration": 919
     },
     {
       "title": "ISP bilgisi metni ve sırası doğru mu?",
       "status": "passed",
-      "duration": 899
+      "duration": 942
     }
   ]
 }
